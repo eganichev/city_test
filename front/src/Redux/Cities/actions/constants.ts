@@ -1,0 +1,1 @@
+export const SET_CITIES_DATA = 'SET_CITIES_DATA'
